@@ -1,0 +1,15 @@
+{
+  "name": "lesson3-saucedemo-automated-tests",
+  "version": "1.0.0",
+  "description": "“Automated Testing with Git” project for Coding Temple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.3"
+  }
+}
